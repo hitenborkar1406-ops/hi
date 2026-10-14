@@ -1,7 +1,5 @@
 # hi
 
+hello hiten
 
-
-hello
-
-konichiwa
+yess sir
